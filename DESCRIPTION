@@ -1,0 +1,28 @@
+Package: RTCGA.CNV.20160128
+Type: Package
+Title: CNV (Copy-number variation) datasets from The Cancer Genome Atlas Project from 2016-01-28
+Version: 0.99.0
+Date: 2016-12-02
+Author: Marcin Kosinski <m.p.kosinski@gmail.com>
+Maintainer: Marcin Kosinski <m.p.kosinski@gmail.com>
+Description: Package provides CNV datasets from The Cancer Genome Atlas
+    Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
+    data format is explained on NCI TCGA wiki 
+    https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
+    Data taken from 2016-01-28 release. All release dates are
+    available here http://gdac.broadinstitute.org/runs/ .
+License: GPL-2
+LazyData: TRUE
+Repository: Bioconductor
+BugReports: https://github.com/RTCGA/RTCGA/issues
+Depends: R (>= 3.3.0), RTCGA, ExperimentHub
+Imports: AnnotationHub
+Suggests: knitr
+Enhances: RTCGA.CNV
+biocViews: Annotation Data
+VignetteBuilder: knitr
+NeedsCompilation: no
+RoxygenNote: 5.0.1
+TCGAdataSet: segmented_scna_minus_germline_cnv_hg19
+TCGAreleaseDate: 2016-01-28
+TCGAdataType: mRNA
