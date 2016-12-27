@@ -9,41 +9,41 @@ from the 2016-01-28 release date. All release dates are available [here](http://
 The package contains following datasets, which names corresponds to: the cohort type, data type and release date. Cohort types can be checked
 with `RTCGA::infoTCGA()`, release dates with `RTCGA::checkTCGA('Dates')` and data types with e.g. `RTCGA::checkTCGA('DataSets', 'BRCA')` calls. 
 The used data type for this package was ` segmented_scna_minus_germline_cnv_hg19 ` - all those information are included in the `DESCRIPTION` file. To see
-the manual page for included datasets run  `?mRNA.20160128` in R console. 
+the manual page for included datasets run  `?CNV.20160128` in R console. 
 
--  ACC.mRNA.20160128 
--  BLCA.mRNA.20160128 
--  BRCA.mRNA.20160128 
--  CESC.mRNA.20160128 
--  CHOL.mRNA.20160128 
--  COADREAD.mRNA.20160128 
--  DLBC.mRNA.20160128 
--  ESCA.mRNA.20160128 
--  GBMLGG.mRNA.20160128 
--  HNSC.mRNA.20160128 
--  KICH.mRNA.20160128 
--  KIPAN.mRNA.20160128 
--  KIRC.mRNA.20160128 
--  KIRP.mRNA.20160128 
--  LAML.mRNA.20160128 
--  LIHC.mRNA.20160128 
--  LUAD.mRNA.20160128 
--  LUSC.mRNA.20160128 
--  MESO.mRNA.20160128 
--  OV.mRNA.20160128 
--  PAAD.mRNA.20160128 
--  PCPG.mRNA.20160128 
--  PRAD.mRNA.20160128 
--  SARC.mRNA.20160128 
--  SKCM.mRNA.20160128 
--  STAD.mRNA.20160128 
--  STES.mRNA.20160128 
--  TGCT.mRNA.20160128 
--  THCA.mRNA.20160128 
--  THYM.mRNA.20160128 
--  UCEC.mRNA.20160128 
--  UCS.mRNA.20160128 
--  UVM.mRNA.20160128 
+-  ACC.CNV.20160128 
+-  BLCA.CNV.20160128 
+-  BRCA.CNV.20160128 
+-  CESC.CNV.20160128 
+-  CHOL.CNV.20160128 
+-  COADREAD.CNV.20160128 
+-  DLBC.CNV.20160128 
+-  ESCA.CNV.20160128 
+-  GBMLGG.CNV.20160128 
+-  HNSC.CNV.20160128 
+-  KICH.CNV.20160128 
+-  KIPAN.CNV.20160128 
+-  KIRC.CNV.20160128 
+-  KIRP.CNV.20160128 
+-  LAML.CNV.20160128 
+-  LIHC.CNV.20160128 
+-  LUAD.CNV.20160128 
+-  LUSC.CNV.20160128 
+-  MESO.CNV.20160128 
+-  OV.CNV.20160128 
+-  PAAD.CNV.20160128 
+-  PCPG.CNV.20160128 
+-  PRAD.CNV.20160128 
+-  SARC.CNV.20160128 
+-  SKCM.CNV.20160128 
+-  STAD.CNV.20160128 
+-  STES.CNV.20160128 
+-  TGCT.CNV.20160128 
+-  THCA.CNV.20160128 
+-  THYM.CNV.20160128 
+-  UCEC.CNV.20160128 
+-  UCS.CNV.20160128 
+-  UVM.CNV.20160128 
 
 Optionally, the data can be loaded through the [ExperimentHub](http://www.bioconductor.org/packages/3.4/bioc/vignettes/ExperimentHubData/inst/doc/ExperimentHubData.html) interface.
 

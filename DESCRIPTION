@@ -25,4 +25,4 @@ NeedsCompilation: no
 RoxygenNote: 5.0.1
 TCGAdataSet: segmented_scna_minus_germline_cnv_hg19
 TCGAreleaseDate: 2016-01-28
-TCGAdataType: mRNA
+TCGAdataType: CNV

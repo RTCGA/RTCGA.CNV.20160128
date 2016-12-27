@@ -1,199 +1,199 @@
 "Title","Description","BiocVersion","SourceUrl","SourceVersion","DataProvided","Maintainer","RDataClass","ResourceName"
-"ACC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+"ACC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ACC.mRNA.20160128"
-"BLCA.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ACC.CNV.20160128"
+"BLCA.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BLCA.mRNA.20160128"
-"BRCA.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BLCA.CNV.20160128"
+"BRCA.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BRCA.mRNA.20160128"
-"CESC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","BRCA.CNV.20160128"
+"CESC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CESC.mRNA.20160128"
-"CHOL.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CESC.CNV.20160128"
+"CHOL.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CHOL.mRNA.20160128"
-"COADREAD.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","CHOL.CNV.20160128"
+"COADREAD.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","COADREAD.mRNA.20160128"
-"DLBC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","COADREAD.CNV.20160128"
+"DLBC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","DLBC.mRNA.20160128"
-"ESCA.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","DLBC.CNV.20160128"
+"ESCA.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ESCA.mRNA.20160128"
-"GBMLGG.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","ESCA.CNV.20160128"
+"GBMLGG.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","GBMLGG.mRNA.20160128"
-"HNSC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","GBMLGG.CNV.20160128"
+"HNSC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","HNSC.mRNA.20160128"
-"KICH.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","HNSC.CNV.20160128"
+"KICH.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KICH.mRNA.20160128"
-"KIPAN.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KICH.CNV.20160128"
+"KIPAN.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIPAN.mRNA.20160128"
-"KIRC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIPAN.CNV.20160128"
+"KIRC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRC.mRNA.20160128"
-"KIRP.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRC.CNV.20160128"
+"KIRP.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRP.mRNA.20160128"
-"LAML.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","KIRP.CNV.20160128"
+"LAML.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LAML.mRNA.20160128"
-"LIHC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LAML.CNV.20160128"
+"LIHC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LIHC.mRNA.20160128"
-"LUAD.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LIHC.CNV.20160128"
+"LUAD.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUAD.mRNA.20160128"
-"LUSC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUAD.CNV.20160128"
+"LUSC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUSC.mRNA.20160128"
-"MESO.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","LUSC.CNV.20160128"
+"MESO.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","MESO.mRNA.20160128"
-"OV.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","MESO.CNV.20160128"
+"OV.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","OV.mRNA.20160128"
-"PAAD.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","OV.CNV.20160128"
+"PAAD.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PAAD.mRNA.20160128"
-"PCPG.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PAAD.CNV.20160128"
+"PCPG.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PCPG.mRNA.20160128"
-"PRAD.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PCPG.CNV.20160128"
+"PRAD.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PRAD.mRNA.20160128"
-"SARC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","PRAD.CNV.20160128"
+"SARC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SARC.mRNA.20160128"
-"SKCM.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SARC.CNV.20160128"
+"SKCM.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SKCM.mRNA.20160128"
-"STAD.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","SKCM.CNV.20160128"
+"STAD.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STAD.mRNA.20160128"
-"STES.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STAD.CNV.20160128"
+"STES.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STES.mRNA.20160128"
-"TGCT.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","STES.CNV.20160128"
+"TGCT.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","TGCT.mRNA.20160128"
-"THCA.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","TGCT.CNV.20160128"
+"THCA.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THCA.mRNA.20160128"
-"THYM.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THCA.CNV.20160128"
+"THYM.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THYM.mRNA.20160128"
-"UCEC.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","THYM.CNV.20160128"
+"UCEC.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCEC.mRNA.20160128"
-"UCS.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCEC.CNV.20160128"
+"UCS.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCS.mRNA.20160128"
-"UVM.mRNA.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UCS.CNV.20160128"
+"UVM.CNV.20160128"," Package provides CNV datasets from The Cancer Genome Atlas
 Project for all cohorts types from http://gdac.broadinstitute.org/. CNV
 data format is explained on NCI TCGA wiki
 https://wiki.nci.nih.gov/display/TCGA/Retrieving+Data+Using+the+Data+Matrix
 Data taken from 2016-01-28 release. All release dates are
-available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UVM.mRNA.20160128"
+available here http://gdac.broadinstitute.org/runs/ . ","3.4","http://gdac.broadinstitute.org/","2016-01-28","TCGA","Bioconductor Package Maintainer <maintainer@bioconductor.org>","data.frame","UVM.CNV.20160128"
