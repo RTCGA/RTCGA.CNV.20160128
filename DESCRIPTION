@@ -19,7 +19,7 @@ Depends: R (>= 3.3.0), RTCGA, ExperimentHub
 Imports: AnnotationHub
 Suggests: knitr
 Enhances: RTCGA.CNV
-biocViews: Annotation Data
+biocViews: Annotation Data, CopyNumberVariationData, CancerData
 VignetteBuilder: knitr
 NeedsCompilation: no
 RoxygenNote: 5.0.1
